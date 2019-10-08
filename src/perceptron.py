@@ -1,13 +1,13 @@
 # =============================================================================
 # #
-# #  Created on Sun Sep 29 10:16:43 2019
+# #  Created on Sun Oct 6 10:16:43 2019
 # #
 # #  CISC684: Group 2
 # #
-# #  @author: Murugesan Somasundaram <smuruges@udel.edu>
-# #           Eric Allen <allenea@udel.edu>
+# #  @author: Eric Allen <allenea@udel.edu>
 # #           Matthew Walter <mswalter@udel.edu>        
-# #           
+# #           Murugesan Somasundaram <smuruges@udel.edu>
+# #
 # #  Command Line Execution:
 # #
 # #
@@ -15,7 +15,7 @@
 #IMPORTS
 import os,sys
 import re
-import math
+#import math
 import glob
 from collections import Counter
 #import pandas as pd
