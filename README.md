@@ -10,13 +10,13 @@ Requires 5-7 additional arguments:
 
 python main.py <program> <path_ham_train> <path_spam_train> <path_ham_test> <path_spam_test> <OPTIONAL: lambda> <OPTIONAL: iterations>
 
-### program: BAYES | MCAP | PERCEPTRON
-### path_ham_train: Directory Path
-### path_spam_train: Directory Path
-### path_ham_test: Directory Path
-### path_spam_test: Directory Path
-### lambda: Float Value (0.01 or 0.1 is recommended)
-### iterations: Integer Value
+##### program: BAYES | MCAP | PERCEPTRON
+##### path_ham_train: Directory Path
+##### path_spam_train: Directory Path
+##### path_ham_test: Directory Path
+##### path_spam_test: Directory Path
+##### lambda: Float Value (0.01 or 0.1 is recommended)
+##### iterations: Integer Value
 
 ## To Run
   > python main.py BAYES <path_ham_train> <path_spam_train> <path_ham_test> <path_spam_test>
